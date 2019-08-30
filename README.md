@@ -1,6 +1,7 @@
 # STM32F407ZG-WVGA-JPEG-Display
 
 This is a WVGA TFT JPG display example, which is based on the STM32F407 series.
+
 This project is using the Keil u4 IDE and upgrade if necessary.
 
 If you are not using 407ZG board please change the project settings (remember to change to pin settings).

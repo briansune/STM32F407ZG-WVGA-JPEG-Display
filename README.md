@@ -10,4 +10,7 @@ The TFT utilize the standard 8080 interface and the SD card uses the SDIO 4 wire
 
 Have Fun~ =]
 
+![Alt text](demo_images/image_a.jpg?raw=true "Title")
+![Alt text](demo_images/image_b.jpg?raw=true "Title")
+![Alt text](demo_images/image_c.jpg?raw=true "Title")
 
